@@ -147,7 +147,7 @@ export const banner = (args?: string[]): string => {
 888   | 888               Y88bd8b/    8888__888 888  888  888    e88~-888 8888   |       888  888 8888__888 888    8888__888        88 
 888   | 888 d88b           Y88Y8Y     Y888    , 888  888  888   C888  888 Y888   '       888  888 Y888    , 888    Y888    , d88b   88 
 888   | 888 Y88P            Y  Y       "88___/  888  888  "88_/  "88_-888  "88_-~        888  888  "88___/  888     "88___/  Y88P   88 
-            __/                                                                                                                   _d8" 
+            __/                                                                                                                   _d8"                                                                                                                  _d8" 
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.

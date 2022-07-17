@@ -1,21 +1,16 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/taoo0316/taoo0316/master/README.md",
+  "title": "Hello World!",
+  "name": "Zhu Wentao",
+  "ascii": "Hello World!",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "taoo0316",
+    "linkedin": "zhu-wentao"
   },
-  "email": "contact@email.com",
+  "email": "zhu.wentao@u.yale-nus.edu.sg",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "repo": "https://github.com/taoo0316/LiveTerm",
   "colors": {
     "light": {
       "background": "#FBF1C9",
@@ -37,3 +32,4 @@
     }
   }
 }
+
